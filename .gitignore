@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Google Service Account Key
+service_account.json
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
